@@ -1,1 +1,1 @@
-# AutoProxy格式的黑白名单自动切换规则
+# AutoProxy格式的LAN规则
